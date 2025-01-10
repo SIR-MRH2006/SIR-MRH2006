@@ -16,4 +16,4 @@ let MyInfo = {
 
 <br><br><br>
 
-![](https://github-readme-stats.vercel.app/api?username=SIR-MRH2006&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=SIR-MRH2006&show_icons=true&theme=dark)
