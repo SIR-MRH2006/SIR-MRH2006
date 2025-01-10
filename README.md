@@ -12,5 +12,6 @@ let MyInfo = {
 ```
 ![](https://img.shields.io/github/commit-activity/m/SIR-MRH2006/std-grade-system-c)
 
+<\br>
 
 ![](https://github-readme-stats.vercel.app/api?username=SIR-MRH2006&show_icons=true&theme=radical)
