@@ -10,6 +10,6 @@ let MyInfo = {
     my_languages : ["❤JavaScript❤","Css","Html","Bootstrap","C"],
 }
 ```
-()[https://img.shields.io/github/commit-activity/m/SIR-MRH2006/std-grade-system-c]
+[](https://img.shields.io/github/commit-activity/m/SIR-MRH2006/std-grade-system-c)
 
 
