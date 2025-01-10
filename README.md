@@ -3,11 +3,12 @@ Computer Engineering Student💻
 
 My Information : 
 ```javacript
-  let Info = {
-      userName : "Mohammadreza-hazrati";
-      birth-Date : "1385_02_09";
-      Languages : {"JavaScript❤","Html","Css","C","BootStrap"};
-  }
+let MyInfo = {
+    myFirstName : "Mohammadreza",
+    myFirstName : "Mohammadreza",
+    my_birth_date : "1385/02/09",
+    my_languages : ["JavaScript❤","Css","Html","Bootstrap","C"],
+}
 ```
 
 
