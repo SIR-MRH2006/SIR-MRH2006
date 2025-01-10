@@ -27,7 +27,7 @@ let MyInfo = {
 ## Github activity
 ![](https://github-readme-stats.vercel.app/api?username=SIR-MRH2006&show_icons=true&theme=dark)
 
-<br><br><br>
+<br><br>
 
 ## Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SIR-MRH2006&hide_progress=false)
