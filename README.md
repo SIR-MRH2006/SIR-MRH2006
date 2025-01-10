@@ -2,7 +2,7 @@
 Computer Engineering Student💻
 
 My Information : 
-```javacript
+```JavaScript
 let MyInfo = {
     myFirstName : "Mohammadreza",
     myFirstName : "Mohammadreza",
