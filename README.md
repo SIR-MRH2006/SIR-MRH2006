@@ -10,8 +10,10 @@ let MyInfo = {
     my_languages : ["❤JavaScript❤","Css","Html","Bootstrap","C"],
 }
 ```
+<br>
+
 ![](https://img.shields.io/github/commit-activity/m/SIR-MRH2006/std-grade-system-c)
 
-<\br>
+<br><br><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=SIR-MRH2006&show_icons=true&theme=radical)
