@@ -21,6 +21,11 @@ let MyInfo = {
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
+<br>
+<br>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/SIR-MRH2006/SIR-MRH2006/refs/heads/main/js.webp">
+</div>
 
 <br><br><br>
 
@@ -28,7 +33,6 @@ let MyInfo = {
 <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SIR-MRH2006&show_icons=true&theme=dark">
-    
 </div>
 
 
