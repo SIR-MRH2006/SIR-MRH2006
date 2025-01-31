@@ -5,7 +5,7 @@ My Information :
 ```JavaScript
 let MyInfo = {
     myFirstName : "Mohammadreza",
-    myFirstName : "Hazrati",
+    myLastName : "Hazrati",
     my_birth_date : "1385/02/09 || 2006/4/29",
     my_languages : [
                     "❤JavaScript❤",
